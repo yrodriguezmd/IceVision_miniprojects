@@ -14,3 +14,9 @@ https://medium.com/@yrodriguezmd/different-models-for-object-detection-9c5cda786
 Focus:  Object detection using faster rcnn, yolo5, retinanet, efficientdet; class label adjustment
 
 Published: Medium, August 2021,
+
+#### 3.  testing_fine_tune
+
+Finding:  Fine_tune has a cumulative effect, LR gets smaller on subsequent iterations
+
+
