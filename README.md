@@ -9,7 +9,8 @@ Focus:  Starting with IceVision, pets dataset, mmdet, retinanet/resnet, bboxes, 
 Published:  Medium, August 2021.
 
 #### 2.  IV OD fasterrcnn, yolo5, retinanet, effdet 2021_8_23
+https://medium.com/@yrodriguezmd/different-models-for-object-detection-9c5cda7863c1
 
 Focus:  Object detection using faster rcnn, yolo5, retinanet, efficientdet; class label adjustment
 
-Published: pending
+Published: Medium, August 2021,
