@@ -19,4 +19,7 @@ Published: Medium, August 2021,
 
 Finding:  Fine_tune has a cumulative effect, LR gets smaller on subsequent iterations
 
+#### 4.  IV plants local upload, csv, custom parser
+
+Focus:  Using plantsdoc tensorflow OD csv from roboflow, local computer download and upload, making a custom parser
 
