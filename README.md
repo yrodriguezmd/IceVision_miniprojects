@@ -31,3 +31,7 @@ Focus:  Using plantsdoc tensorflow OD csv from roboflow, local computer download
 #### 6.  IV plants git, csv, custom parser
 
 Focus:  Using git clone, with separate csv and images, making a custom parser
+
+#### 7.  IV plant git, custom parser, model
+
+Focus: Using plantdoc, uploaded via git clone, custom parser and modelling using faster rcnn, yolov5, retinanet and efficientdet
