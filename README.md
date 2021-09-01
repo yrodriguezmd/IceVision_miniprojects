@@ -32,6 +32,12 @@ Focus:  Using plantsdoc tensorflow OD csv from roboflow, local computer download
 
 Focus:  Using git clone, with separate csv and images, making a custom parser
 
-#### 7.  IV plant git, custom parser, model
+#### 7.  IV plantdoc for notebook
+
+Focus: Revision of airctic/icedata/notebooks/dev/plantdoc.ipynb to update codes, tutorial
+
+Publication:  submitted for open-source PR, 2021 September
+
+#### 8.  IV plant git, custom parser, model
 
 Focus: Using plantdoc, uploaded via git clone, custom parser and modelling using faster rcnn, yolov5, retinanet and efficientdet
