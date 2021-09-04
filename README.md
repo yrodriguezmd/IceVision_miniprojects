@@ -63,3 +63,13 @@ Focus: Using a revised BCCD dataset (better annotation), upload via git clone, v
 Publication:  Medium, 2021 September
 
 https://medium.com/@yrodriguezmd/a-close-look-on-modelling-blood-cells-4625e832311f
+
+#### 10.  BCCD_Dataset for Notebook
+
+Focus: BCCD Dataset for VOCBBoxParsing and modelling.  Based on IV BCCD new.  
+
+Publication: submitted for open-source PR, 2021 September as airctic/icedata/notebooks/dev/bccd_rev
+
+Branch path: yrodriguez/icedata/icedata/notebooks/dev/bccd_dev.ipynb
+
+
