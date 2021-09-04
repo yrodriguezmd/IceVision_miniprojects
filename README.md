@@ -59,3 +59,7 @@ https://medium.com/@yrodriguezmd/modelling-for-leaf-disease-detection-e16554a14b
 #### 9.  IV BCCD new
 
 Focus: Using a revised BCCD dataset (better annotation), upload via git clone, voc parser, no explicit class_map, modelling (final with yolov5), callbacks, save.  (Fit_one_cycle not included-> placed in IV_in_the_works) 
+
+Publication:  Medium, 2021 September
+
+https://medium.com/@yrodriguezmd/a-close-look-on-modelling-blood-cells-4625e832311f
