@@ -70,6 +70,8 @@ Focus: BCCD Dataset for VOCBBoxParsing and modelling.  Based on IV BCCD new.
 
 Publication: submitted for open-source PR, 2021 September as airctic/icedata/notebooks/dev/bccd_rev
 
-Branch path: yrodriguez/icedata/icedata/notebooks/dev/bccd_dev.ipynb
+https://github.com/airctic/icedata/pulls
+
+Branch path: notebooks/dev/bccd_dev.ipynb
 
 
