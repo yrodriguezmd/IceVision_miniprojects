@@ -74,4 +74,8 @@ https://github.com/airctic/icedata/pulls
 
 Branch path: notebooks/dev/bccd_dev.ipynb
 
+#### 11.  IV wheat Kaggle
+
+Focus: Global wheat dataset, custom parsing and modelling (with extension via fit_one_cycle)
+
 
