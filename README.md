@@ -74,8 +74,13 @@ https://github.com/airctic/icedata/pulls
 
 Branch path: notebooks/dev/bccd_dev.ipynb
 
-#### 11.  IV wheat Kaggle
+#### 11 and 12.  IV wheat Kaggle works!! and _yolov5
 
-Focus: Global wheat dataset, custom parsing and modelling (with extension via fit_one_cycle)
+Focus: Global wheat dataset, custom parsing and modelling (with extension via fit_one_cycle).
+
+IV_wheat_kaggle_works!! shows custom parsing using 'source' as class.  Final model using Faster R-CNN.
+
+IV_wheat_kaggle_yolov5 shows custom parsing with single class 'wheat'.  Final model using YOLOv5, mAP 0.46 after 40 epochs (still with room to increase,
+but should be adequate for wheat head detection purposes).
 
 
