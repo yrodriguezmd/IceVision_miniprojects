@@ -83,10 +83,16 @@ IV_wheat_kaggle_works!! shows custom parsing using 'source' as class.  Final mod
 IV_wheat_kaggle_yolov5 shows custom parsing with single class 'wheat'.  Final model using YOLOv5, mAP 0.46 after 40 epochs (still with room to increase,
 but should be adequate for wheat head detection purposes).
 
+Publication: Medium, September 2021.
+
+https://medium.com/@yrodriguezmd/artificial-intelligence-can-help-feed-humans-9233f1c941f6
+
 #### 13.  custom_parser
 
 Focus:  Simple custom Parser for a single-object type detection, based on wheat dataset.
 
 Publication: submitted for open-source PR, 2021 September as airctic/icedata/notebooks/custom_parser
+
+https://github.com/airctic/icedata/pull/121
 
 
