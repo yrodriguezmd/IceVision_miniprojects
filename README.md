@@ -1,7 +1,7 @@
 ### IceVision_miniprojects
 Computer vision mini-projects using Airctic/ IceVision
 
-#### 01. object_detection_start
+#### 01_object_detection_start
 
 Colab filename:  IV pets bboxes, mmdet, faster_rcnn 2021-8-20_12nn
 
