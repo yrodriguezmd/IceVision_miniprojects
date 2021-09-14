@@ -3,8 +3,6 @@ Computer vision mini-projects using Airctic/ IceVision
 
 #### 01_object_detection_start
 
-Colab filename:  IV pets bboxes, mmdet, faster_rcnn 2021-8-20_12nn
-
 Focus:  Starting with IceVision, pets dataset, mmdet, retinanet/resnet, bboxes, COCOmetric (mAP)
 
 Published:  Medium, August 2021.
