@@ -95,7 +95,7 @@ Publication: submitted for open-source PR, 2021 September as airctic/icedata/not
 
 https://github.com/airctic/icedata/pull/121
 
-#### 14_pseudolabel_generation_pilot15
+#### 14_pseudolabel_pilot15
 
 Focus:  Using a pretrained Retinanet model for inference of bboxes and object_ids, creating a coco json file, refining the annotations in roboflow and parsing the resulting image and annotations.
 
